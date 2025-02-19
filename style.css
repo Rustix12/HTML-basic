@@ -18,3 +18,30 @@
 font-size: 100px;
 color: coral;
 }
+
+#bg{
+background-color: aqua;
+height: 200px;
+width: 100px;
+}
+
+#image{
+background-image: url("https://earthshotprize.org/wp-content/uploads/2023/05/bee-on-flower.jpg");
+height: 500px;
+background-size: cover;
+background-repeat: no-repeat;
+font-size: 20px;
+font-weight: bold;
+color: aliceblue;
+font-style: italic;
+
+}
+
+#color{
+background-image: linear-gradient(to right,yellow,red,green,blue);
+
+height: 300px;
+width: 400px;
+font-size: 50px;
+
+}
