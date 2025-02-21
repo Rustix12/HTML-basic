@@ -1,0 +1,46 @@
+#title{
+    font-weight: bold;
+    text-align: center;
+    background-color: yellow;
+}
+
+.info{
+    font-size: larger;
+    font-weight: bold;
+}
+
+.img{
+height: 500px;
+
+}
+
+#img{
+
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-L0Ot1SZLhFhJ1QnYeEJ5HdVG5lIHA5ZsyQ&s);
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+font-size: 30px;
+}
+
+#img2{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2h4o3XLhPcT8nl_8RutioOeh9RXPRQMFmNg&s);
+height: 500px;
+background-repeat: no-repeat;
+background-size: cover;
+font-weight: bold;
+font-size: 50px;
+
+}
+
+.h2{
+color: rgb(247, 185, 15);
+}
+
+#img3{
+    font-size: 30px;
+    background-image: url(https://i.ytimg.com/vi/1ziLEcU8pAQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBwK6tqr7FXB0Ymn8RjiYzpFNmMuw);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(248, 3, 3);
+}
