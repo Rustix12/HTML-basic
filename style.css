@@ -5,38 +5,55 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: linear-gradient(90deg , #838584 , #1b1d1c);;
+    background: linear-gradient(90deg , blue , skyblue)
 }
 
-.signup{
+.register{
     display: grid;
     gap: 10px;
-}
 
+}
 .container{
-   background: white;
-   padding: 30px;
-   height: 350px;
-   border-radius: 12px;
-   text-align: center;
-   box-shadow: 3px 5px 5px #00000030;
+    background-color: rgb(114, 176, 231);
+    padding: 30px;
+    border-radius: 15px;
+    height: 400px;
+    text-align: center;
+    box-shadow: 3px 5px 5px black;
 }
 
-button {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+button{
     width: 100%;
     padding: 12px;
-    background-color: #1e1e1e;
+    background-color: skyblue;
     color: white;
     font-size: 18px;
     border: none;
     border-radius: 5px;
     cursor: pointer;
+
 }
 
 button:hover {
-    background-color: rgb(77, 74, 74);
-}
+    background-color: rgb(106, 174, 201);
 
+}
 
 #p{
     font-weight: bold;
@@ -45,5 +62,5 @@ button:hover {
 #login{
     font-weight: bold;
     color: black;
-    
 }
+
